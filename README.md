@@ -1,5 +1,5 @@
 # c thread channel
-This provides a variable in the c language that can be used like channel in go.
+This provides a variable in C that can be used like channel in GO.
 
 # example
 ```c
